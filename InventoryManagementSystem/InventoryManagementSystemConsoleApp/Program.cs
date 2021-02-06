@@ -12,10 +12,10 @@ namespace InventoryManagementSystemConsoleApp
     {
         static void Main(string[] args)
         {
-            ServiceHost host = new ServiceHost(typeof(InventoryManagementSystemService));
-            host.Open();
-            Console.ReadLine();
-            host.Close();
+            //ServiceHost host = new ServiceHost(typeof(InventoryManagementSystemService));
+            //host.Open();
+            //Console.ReadLine();
+            //host.Close();
         }
     }
 }

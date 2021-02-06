@@ -1,6 +1,0 @@
-E:\InventoryManagementSystem\InventoryManagementSystem\Zza.Entities\bin\Debug\Zza.Entities.dll
-E:\InventoryManagementSystem\InventoryManagementSystem\Zza.Entities\bin\Debug\Zza.Entities.pdb
-E:\InventoryManagementSystem\InventoryManagementSystem\Zza.Entities\obj\Debug\InventoryManagementSystem.Entities.csproj.CoreCompileInputs.cache
-E:\InventoryManagementSystem\InventoryManagementSystem\Zza.Entities\obj\Debug\Zza.Entities.dll
-E:\InventoryManagementSystem\InventoryManagementSystem\Zza.Entities\obj\Debug\Zza.Entities.pdb
-E:\InventoryManagementSystem\InventoryManagementSystem\Zza.Entities\obj\Debug\InventoryManagementSystem.Entities.csprojAssemblyReference.cache

@@ -73,11 +73,11 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Zza.Data\InventoryManagementSystem.Data.csproj">
+    <ProjectReference Include="..\InventoryManagementSystem.Data\InventoryManagementSystem.Data.csproj">
       <Project>{bb1e80de-e6d1-4e29-bc2d-db66b81163c5}</Project>
       <Name>InventoryManagementSystem.Data</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Zza.Entities\InventoryManagementSystem.Entities.csproj">
+    <ProjectReference Include="..\InventoryManagementSystem.Entities\InventoryManagementSystem.Entities.csproj">
       <Project>{7ec71c6e-e769-4c9e-8327-c72b0724b1b7}</Project>
       <Name>InventoryManagementSystem.Entities</Name>
     </ProjectReference>
@@ -93,7 +93,7 @@
     <VisualStudio>
       <FlavorProperties GUID="{3D9AD99F-2412-4246-B90B-4EAA41C64699}">
         <WcfProjectProperties>
-          <AutoStart>False</AutoStart>
+          <AutoStart>True</AutoStart>
         </WcfProjectProperties>
       </FlavorProperties>
     </VisualStudio>
