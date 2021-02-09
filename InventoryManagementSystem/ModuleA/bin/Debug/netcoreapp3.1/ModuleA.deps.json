@@ -1,0 +1,96 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ModuleA/1.0.0": {
+        "dependencies": {
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.31",
+          "Prism.Core": "8.0.0.1909",
+          "Prism.Wpf": "7.2.0.1367"
+        },
+        "runtime": {
+          "ModuleA.dll": {}
+        }
+      },
+      "CommonServiceLocator/2.0.4": {
+        "runtime": {
+          "lib/netcoreapp2.0/CommonServiceLocator.dll": {
+            "assemblyVersion": "2.0.4.0",
+            "fileVersion": "2.0.4.0"
+          }
+        }
+      },
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.31": {
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Xaml.Behaviors.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.31.10800"
+          }
+        }
+      },
+      "Prism.Core/8.0.0.1909": {
+        "runtime": {
+          "lib/netstandard2.0/Prism.dll": {
+            "assemblyVersion": "8.0.0.1909",
+            "fileVersion": "8.0.0.1909"
+          }
+        }
+      },
+      "Prism.Wpf/7.2.0.1367": {
+        "dependencies": {
+          "CommonServiceLocator": "2.0.4",
+          "Prism.Core": "8.0.0.1909"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Prism.Wpf.dll": {
+            "assemblyVersion": "7.2.0.1367",
+            "fileVersion": "7.2.0.1367"
+          },
+          "lib/netcoreapp3.0/System.Windows.Interactivity.dll": {
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "3.0.40218.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ModuleA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommonServiceLocator/2.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YpXfV5l6kv1iQRDfhQnN4RxocbnNehU/rAAS62IlaQUTAKN3WoUbtx9MHwE98Pb09mBemSs4xhVqFhXq27rjxw==",
+      "path": "commonservicelocator/2.0.4",
+      "hashPath": "commonservicelocator.2.0.4.nupkg.sha512"
+    },
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.31": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LZpuf82ACZWldmfMuv3CTUMDh3o0xo0uHUaybR5HgqVLDBJJ9RZLykplQ/bTJd0/VDt3EhD4iDgUgbdIUAM+Kg==",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.31",
+      "hashPath": "microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512"
+    },
+    "Prism.Core/8.0.0.1909": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ri+iSFvJiSKYdui7qtxi3uH9NImSZ8Jl/nOosxScSJseFwAc8Lz63JLXoqSAQglcX13DzZcAMzpKNuA9rCFiJg==",
+      "path": "prism.core/8.0.0.1909",
+      "hashPath": "prism.core.8.0.0.1909.nupkg.sha512"
+    },
+    "Prism.Wpf/7.2.0.1367": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jr7qlHqXSg3k5c7pGrsJMAoXO/MZCPUVtWmAp0klfmHThrdGSMeHvG0QmchYv4zKLoPg+xDHBswuUe/umYp/dg==",
+      "path": "prism.wpf/7.2.0.1367",
+      "hashPath": "prism.wpf.7.2.0.1367.nupkg.sha512"
+    }
+  }
+}

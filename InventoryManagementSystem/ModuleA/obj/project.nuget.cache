@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "j6t5IAn1e7nqP2etRLSPT4C+qiRhkY7vQYyaP7kD5aQGaa52PUAZKRIUnBc+qWWBWFwL6bQL/EA96J47DR/EOQ==",
+  "success": true,
+  "projectFilePath": "E:\\InventoryManagementSystem\\InventoryManagementSystem\\ModuleA\\ModuleA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muhammad.Noman\\.nuget\\packages\\commonservicelocator\\2.0.4\\commonservicelocator.2.0.4.nupkg.sha512",
+    "C:\\Users\\Muhammad.Noman\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\Muhammad.Noman\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\Muhammad.Noman\\.nuget\\packages\\prism.wpf\\7.2.0.1367\\prism.wpf.7.2.0.1367.nupkg.sha512"
+  ],
+  "logs": []
+}

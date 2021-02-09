@@ -15,6 +15,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagementSystem.E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagementSystemConsoleApp", "InventoryManagementSystemConsoleApp\InventoryManagementSystemConsoleApp.csproj", "{B890035A-96F2-4DC9-BE67-EDFC2D493AF8}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagementSystem.PrismClient", "InventoryManagementSystem.PrismClient\InventoryManagementSystem.PrismClient.csproj", "{EA9516C9-C971-45E3-8027-8B1E2FE330A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagementSystem.PrismClientPublisher", "InventoryManagementSystem.PrismClientPublisher\InventoryManagementSystem.PrismClientPublisher.csproj", "{A23141BE-C78A-4116-881C-7C1261D7BB81}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagementSystem.PrismClientListener", "InventoryManagementSystem.PrismClientListener\InventoryManagementSystem.PrismClientListener.csproj", "{DBEA45CA-FFA1-41B7-894A-005FD36273DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagementSystem.PrismClientCore", "InventoryManagementSystem.PrismClientCore\InventoryManagementSystem.PrismClientCore.csproj", "{81B4243C-8B9E-4B9A-8438-ACC232A4495B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModuleA", "ModuleA\ModuleA.csproj", "{544711FD-D2CD-4AB3-AAF2-21BF52F40064}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +55,26 @@ Global
 		{B890035A-96F2-4DC9-BE67-EDFC2D493AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B890035A-96F2-4DC9-BE67-EDFC2D493AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B890035A-96F2-4DC9-BE67-EDFC2D493AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA9516C9-C971-45E3-8027-8B1E2FE330A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA9516C9-C971-45E3-8027-8B1E2FE330A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA9516C9-C971-45E3-8027-8B1E2FE330A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA9516C9-C971-45E3-8027-8B1E2FE330A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A23141BE-C78A-4116-881C-7C1261D7BB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23141BE-C78A-4116-881C-7C1261D7BB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23141BE-C78A-4116-881C-7C1261D7BB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23141BE-C78A-4116-881C-7C1261D7BB81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBEA45CA-FFA1-41B7-894A-005FD36273DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEA45CA-FFA1-41B7-894A-005FD36273DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEA45CA-FFA1-41B7-894A-005FD36273DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEA45CA-FFA1-41B7-894A-005FD36273DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81B4243C-8B9E-4B9A-8438-ACC232A4495B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B4243C-8B9E-4B9A-8438-ACC232A4495B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B4243C-8B9E-4B9A-8438-ACC232A4495B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B4243C-8B9E-4B9A-8438-ACC232A4495B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{544711FD-D2CD-4AB3-AAF2-21BF52F40064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544711FD-D2CD-4AB3-AAF2-21BF52F40064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544711FD-D2CD-4AB3-AAF2-21BF52F40064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544711FD-D2CD-4AB3-AAF2-21BF52F40064}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

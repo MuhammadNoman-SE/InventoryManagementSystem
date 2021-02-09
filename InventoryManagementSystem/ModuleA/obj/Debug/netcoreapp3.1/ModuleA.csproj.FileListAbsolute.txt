@@ -1,0 +1,15 @@
+E:\InventoryManagementSystem\InventoryManagementSystem\ModuleA\obj\Debug\netcoreapp3.1\Control\PersonDetail.baml
+E:\InventoryManagementSystem\InventoryManagementSystem\ModuleA\obj\Debug\netcoreapp3.1\Control\PersonList.baml
+E:\InventoryManagementSystem\InventoryManagementSystem\ModuleA\obj\Debug\netcoreapp3.1\Control\PersonDetail.g.cs
+E:\InventoryManagementSystem\InventoryManagementSystem\ModuleA\obj\Debug\netcoreapp3.1\Control\PersonList.g.cs
+E:\InventoryManagementSystem\InventoryManagementSystem\ModuleA\obj\Debug\netcoreapp3.1\ModuleA_MarkupCompile.cache
+E:\InventoryManagementSystem\InventoryManagementSystem\ModuleA\obj\Debug\netcoreapp3.1\ModuleA.g.resources
+E:\InventoryManagementSystem\InventoryManagementSystem\ModuleA\obj\Debug\netcoreapp3.1\ModuleA.AssemblyInfoInputs.cache
+E:\InventoryManagementSystem\InventoryManagementSystem\ModuleA\obj\Debug\netcoreapp3.1\ModuleA.AssemblyInfo.cs
+E:\InventoryManagementSystem\InventoryManagementSystem\ModuleA\obj\Debug\netcoreapp3.1\ModuleA.csproj.CoreCompileInputs.cache
+E:\InventoryManagementSystem\InventoryManagementSystem\ModuleA\bin\Debug\netcoreapp3.1\ModuleA.deps.json
+E:\InventoryManagementSystem\InventoryManagementSystem\ModuleA\bin\Debug\netcoreapp3.1\ModuleA.dll
+E:\InventoryManagementSystem\InventoryManagementSystem\ModuleA\bin\Debug\netcoreapp3.1\ModuleA.pdb
+E:\InventoryManagementSystem\InventoryManagementSystem\ModuleA\obj\Debug\netcoreapp3.1\ModuleA.dll
+E:\InventoryManagementSystem\InventoryManagementSystem\ModuleA\obj\Debug\netcoreapp3.1\ModuleA.pdb
+E:\InventoryManagementSystem\InventoryManagementSystem\ModuleA\obj\Debug\netcoreapp3.1\ModuleA.csprojAssemblyReference.cache
